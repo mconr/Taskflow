@@ -8,6 +8,11 @@ TaskFlow est une application Kanban pour gérer des tâches (TODO / IN_PROGRESS 
 
 Objectif: fournir un tableau Kanban minimaliste où l’on peut se connecter, lister, créer et déplacer des tâches entre colonnes.
 
+<img width="1893" height="646" alt="image" src="https://github.com/user-attachments/assets/21ffae11-4f03-4cd0-8b70-d94c8e0bade5" />
+
+
+<img width="1425" height="595" alt="image" src="https://github.com/user-attachments/assets/51937c4b-a93e-48fb-a4d8-e4b1a6088557" />
+
 ## Stack technique
 
 - Langages:
